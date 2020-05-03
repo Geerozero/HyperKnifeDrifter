@@ -679,3 +679,40 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.05.03-21.18.32:953][724]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2020.05.03-21.18.32:957][724]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
 [2020.05.03-21.18.33:006][726]LogPlayLevel: Display: Destroying online subsystem :Context_1
+[2020.05.03-21.19.12:624][294]LogTemp: Repeating last play command: Selected Viewport
+[2020.05.03-21.19.12:636][294]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.05.03-21.19.12:636][294]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.05.03-21.19.12:636][294]PIE: New page: PIE session: TopDownExampleMap (May 3, 2020, 1:19:12 PM)
+[2020.05.03-21.19.12:636][294]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2020.05.03-21.19.12:652][294]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016031s)
+[2020.05.03-21.19.12:654][294]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2020.05.03-21.19.12:654][294]LogPlayLevel: PIE: World Init took: (0.001884s)
+[2020.05.03-21.19.12:654][294]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.018150s)
+[2020.05.03-21.19.12:685][294]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2020.05.03-21.19.12:687][294]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.05.03-21.19.12:687][294]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.05.03-21.19.12:687][294]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.05.03-21.19.12:687][294]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.05.03-21.19.12:687][294]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.05.03-21.19.12:687][294]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.05.03-21.19.12:687][294]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.05.03-21.19.12:687][294]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.05.03-21.19.12:687][294]LogAudio: Display: Using built-in audio occlusion.
+[2020.05.03-21.19.12:687][294]LogAudioMixer: Display: Initializing audio mixer.
+[2020.05.03-21.19.12:714][294]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.05.03-21.19.12:714][294]LogAudioMixer: Display: Name: Speakers (Realtek High Definition Audio)
+[2020.05.03-21.19.12:714][294]LogAudioMixer: Display: Is Default: Yes
+[2020.05.03-21.19.12:714][294]LogAudioMixer: Display: Sample Rate: 48000
+[2020.05.03-21.19.12:714][294]LogAudioMixer: Display: Channel Count Used: 2
+[2020.05.03-21.19.12:714][294]LogAudioMixer: Display: Device Channel Count: 2
+[2020.05.03-21.19.12:714][294]LogAudioMixer: Display: Channel Order:
+[2020.05.03-21.19.12:715][294]LogAudioMixer: Display: 0: FrontLeft
+[2020.05.03-21.19.12:715][294]LogAudioMixer: Display: 1: FrontRight
+[2020.05.03-21.19.12:747][294]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2020.05.03-21.19.12:749][294]LogInit: FAudioDevice initialized.
+[2020.05.03-21.19.12:815][294]LogLoad: Game class is 'TopDownGameMode_C'
+[2020.05.03-21.19.12:818][294]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 60) at 2020.05.03-17.19.12
+[2020.05.03-21.19.12:818][294]LogWorld: Bringing up level for play took: 0.002189
+[2020.05.03-21.19.12:818][294]LogOnline: OSS: Creating online subsystem instance for: :Context_2
+[2020.05.03-21.19.12:821][294]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap -0.231
+[2020.05.03-21.19.12:821][294]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
