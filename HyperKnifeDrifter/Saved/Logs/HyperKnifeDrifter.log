@@ -1265,3 +1265,23 @@ please set the "Use T0 as ref pose" option or add them to the bind pose and reim
 [2020.05.10-19.58.31:017][782]AssetCheck: New page: Asset Save: multiple assets
 [2020.05.10-19.58.31:017][782]LogContentValidation: Display: Validating World /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap
 [2020.05.10-19.58.31:017][782]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/TopDownBP/Maps/TopDownExampleMap_BuiltData.TopDownExampleMap_BuiltData
+[2020.05.10-19.58.48:055][984]LogUObjectHash: Compacting FUObjectHashTables data took   2.94ms
+[2020.05.10-19.58.48:247][984]LogSavePackage: Moving '../../../../../../Users/Geers/Desktop/Unreal/HyperKnifeDrifter/HyperKnifeDrifter/Saved/TopDownExampleMap5D90F69846ED1F7665E82180AE9BFBBD.tmp' to '../../../../../../Users/Geers/Desktop/Unreal/HyperKnifeDrifter/HyperKnifeDrifter/Content/TopDownBP/Maps/TopDownExampleMap.umap'
+[2020.05.10-19.58.48:388][984]LogSavePackage: Moving '../../../../../../Users/Geers/Desktop/Unreal/HyperKnifeDrifter/HyperKnifeDrifter/Saved/TopDownExampleMap_BuiltData86C2F97D413150B4F62E9F85978991FA.tmp' to '../../../../../../Users/Geers/Desktop/Unreal/HyperKnifeDrifter/HyperKnifeDrifter/Content/TopDownBP/Maps/TopDownExampleMap_BuiltData.uasset'
+[2020.05.10-19.58.48:405][984]AssetCheck: New page: Asset Save: multiple assets
+[2020.05.10-19.58.48:406][984]LogContentValidation: Display: Validating World /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap
+[2020.05.10-19.58.48:406][984]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/TopDownBP/Maps/TopDownExampleMap_BuiltData.TopDownExampleMap_BuiltData
+[2020.05.10-19.58.52:611][161]Cmd: SELECT NONE
+[2020.05.10-19.58.53:649][205]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2020.05.10-19.58.53:831][205]LogSavePackage: Moving '../../../../../../Users/Geers/Desktop/Unreal/HyperKnifeDrifter/HyperKnifeDrifter/Saved/TopDownExampleMap7079122D45E3BCE39DC085B3E45DE713.tmp' to '../../../../../../Users/Geers/Desktop/Unreal/HyperKnifeDrifter/HyperKnifeDrifter/Content/TopDownBP/Maps/TopDownExampleMap.umap'
+[2020.05.10-19.58.53:969][205]LogSavePackage: Moving '../../../../../../Users/Geers/Desktop/Unreal/HyperKnifeDrifter/HyperKnifeDrifter/Saved/TopDownExampleMap_BuiltDataE988B31F41B9285C8A4A3791483B1B27.tmp' to '../../../../../../Users/Geers/Desktop/Unreal/HyperKnifeDrifter/HyperKnifeDrifter/Content/TopDownBP/Maps/TopDownExampleMap_BuiltData.uasset'
+[2020.05.10-19.58.53:986][205]AssetCheck: New page: Asset Save: multiple assets
+[2020.05.10-19.58.53:987][205]LogContentValidation: Display: Validating World /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap
+[2020.05.10-19.58.53:987][205]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/TopDownBP/Maps/TopDownExampleMap_BuiltData.TopDownExampleMap_BuiltData
+[2020.05.10-19.58.54:592][241]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.05.10-19.58.55:055][258]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2020.05.10-19.58.55:256][258]LogSavePackage: Moving '../../../../../../Users/Geers/Desktop/Unreal/HyperKnifeDrifter/HyperKnifeDrifter/Saved/TopDownExampleMapDF6E3DA443044DE4C258CE91832D31E6.tmp' to '../../../../../../Users/Geers/Desktop/Unreal/HyperKnifeDrifter/HyperKnifeDrifter/Content/TopDownBP/Maps/TopDownExampleMap.umap'
+[2020.05.10-19.58.55:403][258]LogSavePackage: Moving '../../../../../../Users/Geers/Desktop/Unreal/HyperKnifeDrifter/HyperKnifeDrifter/Saved/TopDownExampleMap_BuiltData557888E74358A750A4FDFBA97666A1A0.tmp' to '../../../../../../Users/Geers/Desktop/Unreal/HyperKnifeDrifter/HyperKnifeDrifter/Content/TopDownBP/Maps/TopDownExampleMap_BuiltData.uasset'
+[2020.05.10-19.58.55:421][258]AssetCheck: New page: Asset Save: multiple assets
+[2020.05.10-19.58.55:421][258]LogContentValidation: Display: Validating World /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap
+[2020.05.10-19.58.55:421][258]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/TopDownBP/Maps/TopDownExampleMap_BuiltData.TopDownExampleMap_BuiltData
