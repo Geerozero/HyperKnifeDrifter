@@ -1259,3 +1259,9 @@ please set the "Use T0 as ref pose" option or add them to the bind pose and reim
 [2020.05.10-19.56.52:248][281]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2020.05.10-19.56.52:253][281]LogUObjectHash: Compacting FUObjectHashTables data took   3.52ms
 [2020.05.10-19.56.52:327][283]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2020.05.10-19.58.30:614][782]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2020.05.10-19.58.30:807][782]LogSavePackage: Moving '../../../../../../Users/Geers/Desktop/Unreal/HyperKnifeDrifter/HyperKnifeDrifter/Saved/TopDownExampleMapA2B2570148FE1064BB67F9A829E641D8.tmp' to '../../../../../../Users/Geers/Desktop/Unreal/HyperKnifeDrifter/HyperKnifeDrifter/Content/TopDownBP/Maps/TopDownExampleMap.umap'
+[2020.05.10-19.58.30:978][782]LogSavePackage: Moving '../../../../../../Users/Geers/Desktop/Unreal/HyperKnifeDrifter/HyperKnifeDrifter/Saved/TopDownExampleMap_BuiltData9782491B48340E7EF980BFA556745B18.tmp' to '../../../../../../Users/Geers/Desktop/Unreal/HyperKnifeDrifter/HyperKnifeDrifter/Content/TopDownBP/Maps/TopDownExampleMap_BuiltData.uasset'
+[2020.05.10-19.58.31:017][782]AssetCheck: New page: Asset Save: multiple assets
+[2020.05.10-19.58.31:017][782]LogContentValidation: Display: Validating World /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap
+[2020.05.10-19.58.31:017][782]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/TopDownBP/Maps/TopDownExampleMap_BuiltData.TopDownExampleMap_BuiltData
