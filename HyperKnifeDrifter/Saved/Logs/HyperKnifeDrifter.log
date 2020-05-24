@@ -1667,3 +1667,7 @@ Script Stack (0 frames):
 [2020.05.24-17.13.15:700][187]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2020.05.24-17.13.15:703][187]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
 [2020.05.24-17.13.15:768][191]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2020.05.24-17.14.23:886][552]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2020.05.24-17.14.24:671][552]LogSavePackage: Moving '../../../../../../Users/Geers/Desktop/Unreal/HyperKnifeDrifter/HyperKnifeDrifter/HyperKnifeDrifter/HyperKnifeDrifter/Saved/TopDownExampleMap20DBA98B479F8D207535B89593D342FA.tmp' to '../../../../../../Users/Geers/Desktop/Unreal/HyperKnifeDrifter/HyperKnifeDrifter/HyperKnifeDrifter/HyperKnifeDrifter/Content/TopDownBP/Maps/TopDownExampleMap.umap'
+[2020.05.24-17.14.24:968][552]AssetCheck: New page: Asset Save: TopDownExampleMap
+[2020.05.24-17.14.24:968][552]LogContentValidation: Display: Validating World /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap
