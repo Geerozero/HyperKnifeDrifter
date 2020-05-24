@@ -1671,3 +1671,80 @@ Script Stack (0 frames):
 [2020.05.24-17.14.24:671][552]LogSavePackage: Moving '../../../../../../Users/Geers/Desktop/Unreal/HyperKnifeDrifter/HyperKnifeDrifter/HyperKnifeDrifter/HyperKnifeDrifter/Saved/TopDownExampleMap20DBA98B479F8D207535B89593D342FA.tmp' to '../../../../../../Users/Geers/Desktop/Unreal/HyperKnifeDrifter/HyperKnifeDrifter/HyperKnifeDrifter/HyperKnifeDrifter/Content/TopDownBP/Maps/TopDownExampleMap.umap'
 [2020.05.24-17.14.24:968][552]AssetCheck: New page: Asset Save: TopDownExampleMap
 [2020.05.24-17.14.24:968][552]LogContentValidation: Display: Validating World /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap
+[2020.05.24-17.28.49:034][  1]LogTemp: Repeating last play command: Selected Viewport
+[2020.05.24-17.28.49:092][  1]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.05.24-17.28.49:092][  1]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.05.24-17.28.49:092][  1]PIE: New page: PIE session: TopDownExampleMap (May 24, 2020, 9:28:49 AM)
+[2020.05.24-17.28.49:092][  1]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2020.05.24-17.28.49:110][  1]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018104s)
+[2020.05.24-17.28.49:112][  1]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2020.05.24-17.28.49:113][  1]LogPlayLevel: PIE: World Init took: (0.002226s)
+[2020.05.24-17.28.49:113][  1]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.020565s)
+[2020.05.24-17.28.49:144][  1]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2020.05.24-17.28.49:146][  1]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.05.24-17.28.49:146][  1]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.05.24-17.28.49:146][  1]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.05.24-17.28.49:146][  1]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.05.24-17.28.49:146][  1]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.05.24-17.28.49:147][  1]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.05.24-17.28.49:147][  1]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.05.24-17.28.49:147][  1]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.05.24-17.28.49:147][  1]LogAudio: Display: Using built-in audio occlusion.
+[2020.05.24-17.28.49:147][  1]LogAudioMixer: Display: Initializing audio mixer.
+[2020.05.24-17.28.49:183][  1]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.05.24-17.28.49:183][  1]LogAudioMixer: Display: Name: Speakers (Realtek High Definition Audio)
+[2020.05.24-17.28.49:183][  1]LogAudioMixer: Display: Is Default: Yes
+[2020.05.24-17.28.49:183][  1]LogAudioMixer: Display: Sample Rate: 48000
+[2020.05.24-17.28.49:183][  1]LogAudioMixer: Display: Channel Count Used: 2
+[2020.05.24-17.28.49:183][  1]LogAudioMixer: Display: Device Channel Count: 2
+[2020.05.24-17.28.49:183][  1]LogAudioMixer: Display: Channel Order:
+[2020.05.24-17.28.49:183][  1]LogAudioMixer: Display: 0: FrontLeft
+[2020.05.24-17.28.49:183][  1]LogAudioMixer: Display: 1: FrontRight
+[2020.05.24-17.28.49:217][  1]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2020.05.24-17.28.49:220][  1]LogInit: FAudioDevice initialized.
+[2020.05.24-17.28.49:228][  1]LogLoad: Game class is 'TopDownGameMode_C'
+[2020.05.24-17.28.49:232][  1]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 60) at 2020.05.24-13.28.49
+[2020.05.24-17.28.49:233][  1]LogWorld: Bringing up level for play took: 0.004995
+[2020.05.24-17.28.49:234][  1]LogOnline: OSS: Creating online subsystem instance for: :Context_8
+[2020.05.24-17.28.49:236][  1]LogBlueprintUserMessages: [TopDownCharacter] Reset
+[2020.05.24-17.28.49:236][  1]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap 0.304
+[2020.05.24-17.28.49:236][  1]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.05.24-17.28.55:044][348]LogBlueprintUserMessages: [TopDownCharacter] 3
+[2020.05.24-17.28.57:045][468]LogBlueprintUserMessages: [TopDownCharacter] 2
+[2020.05.24-17.28.59:045][588]LogBlueprintUserMessages: [TopDownCharacter] 1
+[2020.05.24-17.29.01:045][708]LogBlueprintUserMessages: [TopDownCharacter] 1
+[2020.05.24-17.29.03:045][828]LogBlueprintUserMessages: [TopDownCharacter] 1
+[2020.05.24-17.29.05:046][948]LogBlueprintUserMessages: [TopDownCharacter] 1
+[2020.05.24-17.29.06:799][ 53]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.24-17.29.06:799][ 53]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.24-17.29.06:799][ 53]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.05.24-17.29.06:799][ 53]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.24-17.29.06:799][ 53]LogWorld: BeginTearingDown for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2020.05.24-17.29.06:799][ 53]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.24-17.29.06:800][ 53]LogWorld: UWorld::CleanupWorld for TopDownExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.05.24-17.29.06:801][ 53]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.24-17.29.06:809][ 53]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.05.24-17.29.06:809][ 53]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.05.24-17.29.06:813][ 53]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.24-17.29.06:841][ 53]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.24-17.29.06:845][ 53]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.24-17.29.06:848][ 53]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2020.05.24-17.29.06:920][ 56]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2020.05.24-17.29.12:304][309]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2020.05.24-17.29.16:502][309]LogSlate: Window 'Delete Assets' being destroyed
+[2020.05.24-17.29.18:058][309]LogUObjectGlobals: Force Deleting 4 Package(s):
+	Asset Name: /Game/ModelImports/OLD/aiStandardSurface2.aiStandardSurface2
+	Asset Name: /Game/ModelImports/OLD/TestModelExport_PhysicsAsset.TestModelExport_PhysicsAsset
+	Asset Name: /Game/ModelImports/OLD/TestModelExport_Skeleton.TestModelExport_Skeleton
+	Asset Name: /Game/ModelImports/OLD/TestModelExport.TestModelExport
+[2020.05.24-17.29.21:003][309]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2020.05.24-17.29.21:031][309]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2020.05.24-17.29.21:055][309]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2020.05.24-17.29.21:079][309]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2020.05.24-17.29.21:104][309]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2020.05.24-17.29.21:130][309]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2020.05.24-17.29.21:548][309]SourceControl: Error: Updated 0 paths from the index
+[2020.05.24-17.29.21:796][309]SourceControl: rm 'HyperKnifeDrifter/Content/ModelImports/OLD/TestModelExport.uasset'
+[2020.05.24-17.29.21:796][309]SourceControl: rm 'HyperKnifeDrifter/Content/ModelImports/OLD/TestModelExport_PhysicsAsset.uasset'
+[2020.05.24-17.29.21:796][309]SourceControl: rm 'HyperKnifeDrifter/Content/ModelImports/OLD/TestModelExport_Skeleton.uasset'
+[2020.05.24-17.29.21:796][309]SourceControl: rm 'HyperKnifeDrifter/Content/ModelImports/OLD/aiStandardSurface2.uasset'
